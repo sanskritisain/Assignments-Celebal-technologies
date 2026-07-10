@@ -1,0 +1,6 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub-Category,Product_Name,Sales,Quantity,Discount,Profit
+27,CA-2016-121755,1/16/2016,1/20/2016,Second Class,EH-13945,Eric Hoffmann,Consumer,United States,Mumbai,California,90049,West,TEC-AC-10003027,Technology,Accessories,Imation�8GB Mini TravelDrive USB 2.0�Flash Drive,590.5699999999999,3.0,0.0,11.7741
+37,CA-2016-117590,12/8/2016,12/10/2016,First Class,GH-14485,Gene Hale,Corporate,United States,Mumbai,Texas,75080,Central,FUR-FU-10003664,Furniture,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",690.92,5.0,0.6,-147.963
+162,CA-2015-119697,12/28/2015,12/31/2015,Second Class,EM-13960,Eric Murdock,Consumer,United States,Mumbai,Pennsylvania,19134,East,TEC-AC-10003657,Technology,Accessories,Lenovo 17-Key USB Numeric Keypad,554.384,2.0,0.2,1.3596
+169,CA-2014-139892,9/8/2014,9/12/2014,Standard Class,BM-11140,Becky Martin,Consumer,United States,Mumbai,Texas,78207,Central,OFF-AR-10002656,Office Supplies,Art,Sanford Liquid Accent Highlighters,532.064,6.0,0.2,6.8136
+188,CA-2016-157000,7/16/2016,7/22/2016,Standard Class,AM-10360,Alice McCarthy,Corporate,United States,Mumbai,Texas,75051,Central,OFF-ST-10001328,Office Supplies,Storage,"Personal Filing Tote with Lid, Black/Gray",537.224,3.0,0.2,3.7224
