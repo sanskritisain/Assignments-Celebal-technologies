@@ -1,0 +1,6 @@
+pickup_location,total_trips,completed_trips,cancelled_trips,total_revenue,cancellation_rate
+Airport,36,13,23,2075.39,63.89
+IT Park,34,17,17,3191.85,50.0
+Railway Station,29,14,15,1722.94,51.72
+Mall,26,13,13,2339.98,50.0
+City Center,25,6,19,760.92,76.0

@@ -1,0 +1,6 @@
+city,total_revenue,avg_fare,total_distance_km,total_trips,revenue_per_trip
+Delhi,2851.14,95.04,432.64,30,95.04
+Bangalore,2535.43,68.53,526.65,37,68.53
+Mumbai,2286.38,71.45,407.46,32,71.45
+Pune,1493.44,43.92,480.54,34,43.92
+Hyderabad,924.69,54.39,214.18,17,54.39
